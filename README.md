@@ -22,7 +22,7 @@ Utilizar el siguiente comando para ejecutar un contenedor de PostgreSQL en la ra
 docker compose up
 ```
 
-Para ejecutar el proyecto, utiliza el siguiente comando:
+Ejemplo de CURL para probar la autenticación:
 
 ```bash
 curl --location 'localhost:8080/api/v1/login' \
